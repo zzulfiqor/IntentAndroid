@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="hasil_activity">Hasil Activity</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="pindah_activity_dengan_data">Pindah Activity Dengan Data</string>
+    <string name="pindah_activity_dengan_object">Pindah Activity Dengan Object</string>
+    <string name="dial_a_number">Dial A Number</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="status">Status</string>
+</resources>
